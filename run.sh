@@ -10,5 +10,5 @@ docker run \
     --rm \
     -p8088:80 \
     -v name:/data \
-    --name="acces" \
-    acces
+    --name="4dockerhub" \
+    4dockerhub
